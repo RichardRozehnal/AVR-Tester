@@ -7,8 +7,8 @@
 
 #### AVR Tester testuje a měří tyto součástky:
 * **Odpory** 0.01R - 50M
-* **Kondenzátory** 25pF - 100nF a ESR od hondont 0.18uF (u tantalů polarita: (-) na pin 1 a (+) na pin 2 / 3 nebo (-) na pin 2 a (+) na pin 3
-* **Tranzistory** automatická detekce NPN a PNP, N a P kanaálové MOSFET, JFET
+* **Kondenzátory** 25pF - 100nF a ESR od hodnot 0.18uF (u tantalů polarita: (-) na pin 1 a (+) na pin 2 / 3 nebo (-) na pin 2 a (+) na pin 3
+* **Tranzistory** automatická detekce NPN a PNP, N a P kanálové MOSFET, JFET
 * **Tyristory a triaky** měří proudem 6mA, tzn. pouze citlivější součástky, neotevře součástky s větším proudem hradla a darlingy s vnitřními rezistory
 * **Diody** a dvojité diody
 * **Cívky** 0.01mH - 20H s nižším rozlišením
@@ -24,7 +24,7 @@ Připojte ke všem třem výstupům měřící vodiče a spojte je dohromady, zk
 <br>
 
 Měřenou součástku stačí jen připojit a stisknout tlačítko.
-
+<br>
 #### Fotky hotového výrobku:
 
 ![AVR Tester osazena DPS Bot](Fotky/AVR_Tester_osazena_DPS_Bot.jpg "AVR Tester osazena DPS Bot")
