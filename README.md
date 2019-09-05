@@ -1,6 +1,6 @@
 # AVR Tester
 
-AVR Tester testuje a měří tyto součástky:
+####AVR Tester testuje a měří tyto součástky:
 * **Odpory** 0.01R - 50M
 * **Kondenzátory** 25pF - 100nF a ESR od hondont 0.18uF (u tantalů polarita: (-) na pin 1 a (+) na pin 2 / 3 nebo (-) na pin 2 a (+) na pin 3
 * **Tranzistory** automatická detekce NPN a PNP, N a P kanaálové MOSFET, JFET
