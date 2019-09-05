@@ -8,9 +8,13 @@ AVR Tester testuje a měří tyto součástky:
 * **Diody** a dvojité diody
 * **Cívky** 0.01mH - 20H s nižším rozlišením
 
+<br>
+
 #### Kalibrace
 Připojte ke všem třem výstupům měřící vodiče a spojte je dohromady, zkratujte. Stiskněte a podržte tlačítko na přístroji cca 2 sekundy dokud se neobjeví menu. V něm vyberte kalibraci (test) a potvrďte stisknutím tlačítka. Při kalibraci nemanipulujte s měřícími vodiči. Během kalibrace budete požádáni o zapojení kondenzátoru 100nF - 20uF (mějte ho proto připravený).
 
-Nezapomeňte, že měřené kondenzátory musí být VŽDY před měřením vybité!
+<br>
+
+**Nezapomeňte, že měřené kondenzátory musí být VŽDY před měřením vybité!**
 
 Měřenou součástku stačí jen připojit a stisknout tlačítko.
