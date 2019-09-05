@@ -1,6 +1,6 @@
 # AVR Tester
 
-![AVR Tester schema](schema.jpg "AVR Tester schema")
+![AVR Tester schema](Schema.png "AVR Tester schema")
 
 
 
