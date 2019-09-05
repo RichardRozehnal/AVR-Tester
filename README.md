@@ -24,7 +24,7 @@ Připojte ke všem třem výstupům měřící vodiče a spojte je dohromady, zk
 <br>
 
 Měřenou součástku stačí jen připojit a stisknout tlačítko.
-<br>
+<br><br>
 #### Fotky hotového výrobku:
 
 ![AVR Tester osazena DPS Bot](Fotky/AVR_Tester_osazena_DPS_Bot.jpg "AVR Tester osazena DPS Bot")
