@@ -21,4 +21,16 @@ Připojte ke všem třem výstupům měřící vodiče a spojte je dohromady, zk
 
 **Nezapomeňte, že měřené kondenzátory musí být VŽDY před měřením vybité!**
 
+<br>
+
 Měřenou součástku stačí jen připojit a stisknout tlačítko.
+
+#### Fotky hotového výrobku:
+
+![AVR Tester osazena DPS Bot](Fotky/AVR_Tester_osazena_DPS_Bot.jpg "AVR Tester osazena DPS Bot")
+![AVR Tester osazena DPS Top](Fotky/AVR_Tester_osazena_DPS_Top.jpg "AVR Tester osazena DPS Top")
+![AVR Tester rozložený](Fotky/AVR_Tester_rozlozeny.jpg "AVR Tester rozložený")
+![AVR Tester rozložený spodek](Fotky/AVR_Tester_rozlozeny_spodek.jpg "AVR Tester rozložený spodek")
+![AVR Tester rozložený vršek](Fotky/AVR_Tester_rozlozeny_vrsek.jpg "AVR Tester rozložený vršek")
+![AVR Tester složený spodek](Fotky/AVR_Tester_slozeny_spodek.jpg "AVR Tester složený spodek")
+![AVR Tester složený vršek](Fotky/AVR_Tester_slozeny_vrsek.jpg "AVR Tester složený vršek")
