@@ -2,10 +2,7 @@
 
 ![AVR Tester schema](Schema.png "AVR Tester schema")
 
-
-
-
-#### AVR Tester testuje a měří tyto součástky:
+## AVR Tester testuje a měří tyto součástky:
 * **Odpory** 0.01R - 50M
 * **Kondenzátory** 25pF - 100nF a ESR od hodnot 0.18uF (u tantalů polarita: (-) na pin 1 a (+) na pin 2 / 3 nebo (-) na pin 2 a (+) na pin 3
 * **Tranzistory** automatická detekce NPN a PNP, N a P kanálové MOSFET, JFET
@@ -13,19 +10,14 @@
 * **Diody** a dvojité diody
 * **Cívky** 0.01mH - 20H s nižším rozlišením
 
-
-#### Kalibrace
+## Kalibrace
 Připojte ke všem třem výstupům měřící vodiče a spojte je dohromady, zkratujte. Stiskněte a podržte tlačítko na přístroji cca 2 sekundy dokud se neobjeví menu. V něm vyberte kalibraci (test) a potvrďte stisknutím tlačítka. Při kalibraci nemanipulujte s měřícími vodiči. Během kalibrace budete požádáni o zapojení kondenzátoru 100nF - 20uF (mějte ho proto připravený).
-
-<br>
 
 **Nezapomeňte, že měřené kondenzátory musí být VŽDY před měřením vybité!**
 
-<br>
-
 Měřenou součástku stačí jen připojit a stisknout tlačítko.
-<br><br>
-#### Fotky hotového výrobku:
+
+## Fotky hotového výrobku:
 
 ![AVR Tester osazena DPS Bot](Fotky/AVR_Tester_osazena_DPS_Bot.jpg "AVR Tester osazena DPS Bot")
 ![AVR Tester osazena DPS Top](Fotky/AVR_Tester_osazena_DPS_Top.jpg "AVR Tester osazena DPS Top")
